@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidDevd
-- 👀 I’m interested in Front end
-- 🌱 I’m currently learning Curso de programação fullStack
+- 👀 I’m interested in back end
+- 🌱 I’m currently learning ADS
 - 💞️ I’m looking to collaborate on aprendizado e experiência para o meu futuro dev
 - 📫 How to reach me davifd642@gmail.com este é o meu gmail cola la
 - 😄 Pronouns: Ele/Dele
