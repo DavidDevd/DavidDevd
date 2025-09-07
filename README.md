@@ -1,12 +1,11 @@
-# 👋 Olá, eu sou o Paulo Ramos!
+## 👋 Olá, eu sou o Paulo Ramos!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Apaixonado por programação e tecnologia  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** 💻 Apaixonado por programação e tecnologia  
 🚀 Buscando oportunidade de estágio na área de desenvolvimento
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,23 +16,30 @@
 
 ---
 
-## 📊 Estatísticas de Uso das Linguagens
+### 📊 Estatísticas e Habilidades
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDevd&layout=compact&langs_count=6&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDevd&layout=compact&langs_count=6&theme=radical" alt="Estatísticas de Linguagens" />
+</p>
+
+| Tecnologia    | Nível de Conhecimento |
+|---------------|-----------------------|
+| 🐍 Python     | ████████░░ (Intermediário)       |
+| ⚡ JavaScript | ████████░░ (Intermediário)  |
+| 🌐 HTML       | ████████░░ (Intermediário)  |
+| 🎨 CSS        | ████████░░ (Intermediário)  |
+| 🔧 Git        | ████████░░ (Intermediário)  |
+| 🐧 Linux      | ██████░░░░ (Básico)       |
 
 ---
 
-## 📚 Sobre mim
+### 📚 Sobre mim
 
-- 📖 Atualmente estudando **desenvolvimento web e boas práticas de programação**  
-- 🌱 Interessado em **backend, frontend e DevOps**  
-- 🎯 Objetivo: conquistar meu **primeiro estágio em programação**
+- 📖 Atualmente estudando **desenvolvimento web e boas práticas de programação** - 🌱 Interessado em **backend, frontend e DevOps** - 🎯 Objetivo: conquistar meu **primeiro estágio em programação**
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 - 💼 LinkedIn: [Paulo Ramos](https://www.linkedin.com/in/paulo-ramos-b605a9209)  
 - 🐙 GitHub: [DavidDevd](https://github.com/DavidDevd)
-
----
