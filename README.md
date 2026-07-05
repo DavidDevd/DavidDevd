@@ -24,25 +24,31 @@ Tenho focado minha evolução em ambientes Linux, Docker, Kubernetes, Terraform,
 
 ## Projetos em destaque
 
-### Infraestrutura multi-ambiente com Terraform
+### [Infraestrutura multi-ambiente com Terraform](https://github.com/DavidDevd/Configuracao-de-Infraestrutura-Multi-Ambiente)
 
 Infraestrutura como código para ambientes `dev`, `staging` e `prod`, com rede, instâncias, balanceamento, Auto Scaling e state remoto.
 
 **Tecnologias:** Terraform, AWS, VPC, EC2, ALB, Auto Scaling, S3, DynamoDB
 
-### Pipeline CI/CD com GitHub Actions e AWS App Runner
+### [Pipeline CI/CD com GitHub Actions e AWS App Runner](https://github.com/DavidDevd/devops.ci.api)
 
-Pipeline automatizado com testes, build de imagem Docker, publicação no ECR e deploy em ambientes separados.
+API FastAPI containerizada com testes, build Docker, publicação no ECR e deploy automatizado em AWS App Runner.
 
-**Tecnologias:** GitHub Actions, Docker, AWS App Runner, ECR, Terraform
+**Tecnologias:** FastAPI, Docker, GitHub Actions, AWS App Runner, ECR, CI/CD
 
-### API FastAPI com PostgreSQL em Kubernetes
+### [Infraestrutura CI/CD com Terraform](https://github.com/DavidDevd/devops.ci.iac)
 
-Deploy local em cluster Kind com Deployments, Services, PV/PVC, Secrets, ConfigMaps, probes e HPA baseado em CPU.
+Infraestrutura Terraform para ECR, IAM/OIDC e App Runner, separando ambientes `dev` e `prod`.
+
+**Tecnologias:** Terraform, AWS ECR, IAM, OIDC, App Runner
+
+### [API FastAPI com PostgreSQL em Kubernetes](https://github.com/DavidDevd/desafio-kubernetes)
+
+Deploy local em cluster Kind com Deployments, Services, PV/PVC, Secrets de exemplo, ConfigMaps, probes e HPA.
 
 **Tecnologias:** Kubernetes, FastAPI, PostgreSQL, Docker, HPA
 
-### Ambiente Docker Compose
+### [Ambiente Docker Compose com Node.js e PostgreSQL](https://github.com/DavidDevd/docker-multi-container-api)
 
 Ambiente containerizado com aplicação Node.js, PostgreSQL, rede isolada, volume persistente e variáveis de ambiente.
 
