@@ -1,10 +1,3 @@
-Achei uma ótima ideia. Na verdade, eu faria o contrário: **padronizaria seu GitHub, LinkedIn e currículo com a mesma identidade profissional**. Isso transmite mais consistência para recrutadores.
-
-Como seu foco evoluiu bastante, seu GitHub ainda está mais voltado para DevOps. Já o LinkedIn mostra melhor que você também está caminhando para **IA + Automação + Backend**.
-
-Eu faria um README assim:
-
----
 
 # Olá, eu sou Paulo Davi Pinto Ramos 👋
 
