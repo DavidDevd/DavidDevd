@@ -1,72 +1,187 @@
-# Olá, eu sou Paulo Davi Pinto Ramos
+Achei uma ótima ideia. Na verdade, eu faria o contrário: **padronizaria seu GitHub, LinkedIn e currículo com a mesma identidade profissional**. Isso transmite mais consistência para recrutadores.
 
-DevOps Jr. | SRE Jr. | Infraestrutura Cloud | Backend Jr.
+Como seu foco evoluiu bastante, seu GitHub ainda está mais voltado para DevOps. Já o LinkedIn mostra melhor que você também está caminhando para **IA + Automação + Backend**.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com Suporte TI N1, unindo experiência prática em troubleshooting, redes e atendimento técnico com projetos de infraestrutura, automação, cloud e backend.
+Eu faria um README assim:
 
-Tenho focado minha evolução em ambientes Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, Python/FastAPI, Java Spring e observabilidade com Prometheus e Grafana.
+---
 
-## Foco atual
+# Olá, eu sou Paulo Davi Pinto Ramos 👋
 
-- DevOps, SRE e infraestrutura cloud
-- Automação com Terraform, Docker e GitHub Actions
-- Deploy de APIs e aplicações em ambientes containerizados
-- Observabilidade, health checks, métricas e alertas
-- Backend com Python/FastAPI, Java/Spring e PostgreSQL
+**Desenvolvedor Full-Stack Jr. | AI Automation | DevOps | Cloud Computing | Docker | Kubernetes | Terraform | AWS**
 
-## Stack
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como profissional de **Suporte TI N1**, direcionando minha carreira para **Desenvolvimento Full-Stack, Inteligência Artificial & Automação, DevOps, SRE, Cloud Computing e Back-end**.
 
-**DevOps/SRE:** Linux, Docker, Docker Compose, Kubernetes, Terraform, GitHub Actions, CI/CD, Git, GitOps, ArgoCD  
-**Cloud:** AWS EC2, VPC, ALB, ECR, App Runner, S3, DynamoDB, Auto Scaling, OCI, Azure, GCP  
-**Observabilidade:** Prometheus, Grafana, métricas, logs, alertas, liveness/readiness probes  
-**Backend:** Python, FastAPI, Java, Spring, Node.js, APIs REST, SQL, PostgreSQL  
-**Arquitetura:** POO, UML, SOLID, Clean Architecture, design patterns
+Minha experiência combina suporte técnico, redes, diagnóstico de falhas e infraestrutura com projetos voltados para automação, computação em nuvem e desenvolvimento de software.
 
-## Projetos em destaque
+Atualmente venho aprofundando meus conhecimentos em **Inteligência Artificial**, desenvolvendo soluções com **Agentes de IA, n8n, integrações de APIs, RAG e automação de processos**, além de infraestrutura moderna utilizando Docker, Kubernetes, Terraform e AWS.
 
-### [Infraestrutura multi-ambiente com Terraform](https://github.com/DavidDevd/Configuracao-de-Infraestrutura-Multi-Ambiente)
+---
 
-Infraestrutura como código para ambientes `dev`, `staging` e `prod`, com rede, instâncias, balanceamento, Auto Scaling e state remoto.
+# 🚀 Áreas de atuação
 
-**Tecnologias:** Terraform, AWS, VPC, EC2, ALB, Auto Scaling, S3, DynamoDB
+* Desenvolvimento Full-Stack
+* Inteligência Artificial e Automação
+* DevOps e SRE
+* Cloud Computing
+* Backend
+* Infraestrutura como Código (IaC)
+* Observabilidade
 
-### [Pipeline CI/CD com GitHub Actions e AWS App Runner](https://github.com/DavidDevd/devops.ci.api)
+---
 
-API FastAPI containerizada com testes, build Docker, publicação no ECR e deploy automatizado em AWS App Runner.
+# 💻 Stack
 
-**Tecnologias:** FastAPI, Docker, GitHub Actions, AWS App Runner, ECR, CI/CD
+### DevOps & Cloud
 
-### [Infraestrutura CI/CD com Terraform](https://github.com/DavidDevd/devops.ci.iac)
+* Linux
+* Docker
+* Docker Compose
+* Kubernetes
+* Terraform
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* GitOps
+* ArgoCD
 
-Infraestrutura Terraform para ECR, IAM/OIDC e App Runner, separando ambientes `dev` e `prod`.
+### Cloud
 
-**Tecnologias:** Terraform, AWS ECR, IAM, OIDC, App Runner
+* AWS
+* EC2
+* VPC
+* ECR
+* App Runner
+* ALB
+* S3
+* DynamoDB
+* Auto Scaling
+* OCI
+* Azure
+* Google Cloud Platform (GCP)
 
-### [API FastAPI com PostgreSQL em Kubernetes](https://github.com/DavidDevd/desafio-kubernetes)
+### IA & Automação
 
-Deploy local em cluster Kind com Deployments, Services, PV/PVC, Secrets de exemplo, ConfigMaps, probes e HPA.
+* OpenAI
+* AI Agents
+* n8n
+* RAG
+* Prompt Engineering
+* APIs
+* Automação de Processos
+* Integração de Sistemas
 
-**Tecnologias:** Kubernetes, FastAPI, PostgreSQL, Docker, HPA
+### Backend
 
-### [Ambiente Docker Compose com Node.js e PostgreSQL](https://github.com/DavidDevd/docker-multi-container-api)
+* Python
+* FastAPI
+* Java
+* Spring Boot
+* Node.js
+* APIs REST
+* SQL
+* PostgreSQL
 
-Ambiente containerizado com aplicação Node.js, PostgreSQL, rede isolada, volume persistente e variáveis de ambiente.
+### Observabilidade
 
-**Tecnologias:** Docker, Docker Compose, Node.js, PostgreSQL
+* Prometheus
+* Grafana
+* Logs
+* Métricas
+* Alertas
+* Health Checks
+* Liveness & Readiness Probes
 
-## Experiência
+### Arquitetura
 
-Atualmente trabalho como Suporte TI N1 na VDS NET, realizando atendimento técnico, diagnóstico de falhas de conectividade, suporte a redes, roteadores, ONTs/ONUs e acompanhamento de ordens de serviço.
+* Programação Orientada a Objetos
+* UML
+* SOLID
+* Clean Architecture
+* Design Patterns
 
-Essa vivência fortalece minha base para atuar com DevOps, SRE e Cloud, principalmente em troubleshooting, comunicação, priorização de incidentes e visão prática de infraestrutura.
+---
 
-## Formação
+# 📌 Projetos em destaque
 
-- Análise e Desenvolvimento de Sistemas - UNINTER
-- Formação DevOps - Rocketseat
+## 🚀 Infraestrutura Multi-Ambiente com Terraform
 
-## Contato
+Provisionamento completo para ambientes **dev**, **staging** e **prod**, utilizando Infraestrutura como Código na AWS.
 
-- LinkedIn: https://linkedin.com/in/paulo-ramos-b605a9209
-- Portfólio: https://daviddevd.github.io/pauloramos.github.io
-- E-mail: davifd642@gmail.com
+**Tecnologias**
+
+Terraform • AWS • EC2 • VPC • ALB • Auto Scaling • S3 • DynamoDB
+
+---
+
+## 🚀 Pipeline CI/CD com GitHub Actions
+
+Pipeline automatizada realizando testes, build Docker, publicação no Amazon ECR e deploy no AWS App Runner.
+
+**Tecnologias**
+
+FastAPI • Docker • GitHub Actions • AWS • CI/CD
+
+---
+
+## 🚀 Infraestrutura CI/CD com Terraform
+
+Provisionamento de infraestrutura para pipelines utilizando IAM/OIDC, Amazon ECR e AWS App Runner.
+
+---
+
+## 🚀 API FastAPI com Kubernetes
+
+Aplicação containerizada utilizando Kubernetes, PostgreSQL, Secrets, ConfigMaps, HPA e armazenamento persistente.
+
+---
+
+## 🚀 Ambiente Docker Compose
+
+Aplicação Node.js integrada ao PostgreSQL utilizando Docker Compose, volumes persistentes e rede isolada.
+
+---
+
+# 💼 Experiência
+
+## Suporte Técnico N1 — VDS NET
+
+Atuação em:
+
+* Atendimento técnico
+* Troubleshooting
+* Redes
+* Roteadores
+* ONTs e ONUs
+* Diagnóstico de conectividade
+* Acompanhamento de ordens de serviço
+
+Essa experiência fortaleceu minha capacidade de resolução de incidentes, comunicação com clientes e visão prática de infraestrutura.
+
+---
+
+# 🎓 Formação
+
+* 🎓 Análise e Desenvolvimento de Sistemas — UNINTER
+* 🚀 Formação DevOps — Rocketseat
+
+---
+
+# 📫 Contato
+
+* 💼 LinkedIn: [https://linkedin.com/in/paulo-ramos-b605a9209](https://linkedin.com/in/paulo-ramos-b605a9209)
+* 🌐 Portfólio: [https://daviddevd.github.io/pauloramos.github.io](https://daviddevd.github.io/pauloramos.github.io)
+* 📧 E-mail: [davifd642@gmail.com](mailto:davifd642@gmail.com)
+
+---
+
+## Uma sugestão para o título do LinkedIn
+
+Seu título atual é bom, mas pode ficar ainda mais objetivo para buscas de recrutadores:
+
+**Desenvolvedor Full-Stack Jr. | DevOps | AI Automation | Cloud | AWS | Docker | Kubernetes | Terraform | Python | Java | FastAPI**
+
+Assim você coloca primeiro o cargo que procura e, em seguida, as principais tecnologias que recrutadores costumam pesquisar.
+
+No geral, seu perfil já demonstra uma evolução consistente. A principal melhoria agora é manter **GitHub, LinkedIn, currículo e portfólio com a mesma mensagem**, reforçando sua marca profissional e facilitando a identificação do seu foco por quem analisa seu perfil.
