@@ -167,14 +167,5 @@ Essa experiência fortaleceu minha capacidade de resolução de incidentes, comu
 * 🌐 Portfólio: [https://daviddevd.github.io/pauloramos.github.io](https://daviddevd.github.io/pauloramos.github.io)
 * 📧 E-mail: [davifd642@gmail.com](mailto:davifd642@gmail.com)
 
----
 
-## Uma sugestão para o título do LinkedIn
 
-Seu título atual é bom, mas pode ficar ainda mais objetivo para buscas de recrutadores:
-
-**Desenvolvedor Full-Stack Jr. | DevOps | AI Automation | Cloud | AWS | Docker | Kubernetes | Terraform | Python | Java | FastAPI**
-
-Assim você coloca primeiro o cargo que procura e, em seguida, as principais tecnologias que recrutadores costumam pesquisar.
-
-No geral, seu perfil já demonstra uma evolução consistente. A principal melhoria agora é manter **GitHub, LinkedIn, currículo e portfólio com a mesma mensagem**, reforçando sua marca profissional e facilitando a identificação do seu foco por quem analisa seu perfil.
