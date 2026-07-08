@@ -1,9 +1,24 @@
-
 # Olá, eu sou Paulo Davi Pinto Ramos 👋
 
-**Desenvolvedor Full-Stack Jr. | AI Automation | DevOps | Cloud Computing | Docker | Kubernetes | Terraform | AWS**
+<p align="center">
+  <img src="https://img.shields.io/badge/PHOENIX-Ecosystem-111827" />
+  <img src="https://img.shields.io/badge/Engineering-Ready-0f766e" />
+  <img src="https://img.shields.io/badge/Portfolio-Ready-2563eb" />
+  <img src="https://img.shields.io/badge/Recruiter-Ready-7c3aed" />
+  <img src="https://img.shields.io/badge/Enterprise%20Docs-In%20Progress-f97316" />
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como profissional de **Suporte TI N1**, direcionando minha carreira para **Desenvolvimento Full-Stack, Inteligência Artificial & Automação, DevOps, SRE, Cloud Computing e Back-end**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-Automation-7c3aed" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-AWS-2563eb" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-CI%2FCD-111827" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-FastAPI-0f766e" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20Terraform-b91c1c" />
+</p>
+
+**AI Automation Jr. | Cloud Engineering | Platform Engineering | Backend Engineering | DevOps | Docker | Kubernetes | Terraform | AWS**
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como profissional de **Suporte TI N1**, direcionando minha carreira para **Inteligência Artificial & Automação, DevOps, SRE, Cloud Computing, Platform Engineering e Back-end**.
 
 Minha experiência combina suporte técnico, redes, diagnóstico de falhas e infraestrutura com projetos voltados para automação, computação em nuvem e desenvolvimento de software.
 
@@ -13,11 +28,12 @@ Atualmente venho aprofundando meus conhecimentos em **Inteligência Artificial**
 
 # 🚀 Áreas de atuação
 
-* Desenvolvimento Full-Stack
-* Inteligência Artificial e Automação
+* AI Engineering
+* AI Automation
 * DevOps e SRE
-* Cloud Computing
-* Backend
+* Cloud Engineering
+* Platform Engineering
+* Backend Engineering
 * Infraestrutura como Código (IaC)
 * Observabilidade
 
@@ -166,6 +182,3 @@ Essa experiência fortaleceu minha capacidade de resolução de incidentes, comu
 * 💼 LinkedIn: [https://linkedin.com/in/paulo-ramos-b605a9209](https://linkedin.com/in/paulo-ramos-b605a9209)
 * 🌐 Portfólio: [https://daviddevd.github.io/pauloramos.github.io](https://daviddevd.github.io/pauloramos.github.io)
 * 📧 E-mail: [davifd642@gmail.com](mailto:davifd642@gmail.com)
-
-
-
