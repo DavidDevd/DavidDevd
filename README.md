@@ -1,120 +1,200 @@
 <div align="center">
 
-# Paulo Davi Pinto Ramos
+<img src="./assets/profile-hero.svg" width="100%" alt="Paulo Ramos — Software, AI, Cloud and Platform Engineering" />
 
-### Software Engineering • AI Engineering • Cloud & Platform
+<br/>
 
-**Building intelligent systems from AI to production infrastructure.**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://daviddevd.github.io/pauloramos.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-ramos-b605a9209)
+[![Email](https://img.shields.io/badge/EMAIL-312E81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davifd642@gmail.com)
 
-Python • FastAPI • LLMs • Intelligent Automation • Docker • AWS • Kubernetes • Terraform • CI/CD
-
-[Portfolio](https://daviddevd.github.io/pauloramos.github.io) • [LinkedIn](https://linkedin.com/in/paulo-ramos-b605a9209) • [Email](mailto:davifd642@gmail.com)
+![AI Engineering](https://img.shields.io/badge/AI_ENGINEERING-8B5CF6?style=flat-square)
+![Automation](https://img.shields.io/badge/INTELLIGENT_AUTOMATION-3B82F6?style=flat-square)
+![Backend](https://img.shields.io/badge/BACKEND_ENGINEERING-10B981?style=flat-square)
+![Cloud](https://img.shields.io/badge/CLOUD_%26_PLATFORM-F59E0B?style=flat-square)
 
 </div>
 
 ---
 
-## Selected Work
+## ◈ Selected Work
 
-| Project | Engineering evidence | Stack |
-| --- | --- | --- |
-| **[FlowStock](https://github.com/DavidDevd/flowstock-public)** | Full-stack SaaS project focused on software engineering beyond basic CRUD | Backend, APIs, product engineering |
-| **[AI Development Team](https://github.com/DavidDevd/ai-development-team)** | Modular AI-assisted engineering platform with separated responsibilities and delivery workflow | Python, LLMs, Docker, GitHub Actions, automated tests |
-| **[AWS CI/CD Pipeline](https://github.com/DavidDevd/devops.ci.api)** | Automated test, container build, ECR publishing and App Runner deployment | FastAPI, Docker, GitHub Actions, AWS |
-| **[Terraform Multi-Environment Infrastructure](https://github.com/DavidDevd/Configuracao-de-Infraestrutura-Multi-Ambiente)** | Versioned infrastructure for dev, staging and production environments | Terraform, AWS, VPC, EC2, ALB, Auto Scaling, S3, DynamoDB |
-| **[FastAPI on Kubernetes](https://github.com/DavidDevd/desafio-kubernetes)** | Containerized API deployment with persistent storage, configuration, probes and autoscaling | FastAPI, PostgreSQL, Kubernetes, Docker, HPA |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [FlowStock](https://github.com/DavidDevd/flowstock-public)
+**Software / Product Engineering**
+
+Full-stack SaaS project focused on engineering a real product beyond basic CRUD, connecting application architecture, APIs and product decisions.
+
+`Backend` `APIs` `SaaS` `Product Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### [AI Development Team](https://github.com/DavidDevd/ai-development-team)
+**AI Engineering / Automation**
+
+Modular AI-assisted engineering platform with separated responsibilities, delivery workflow, containerized services and automated quality validation.
+
+`Python` `LLMs` `Docker` `GitHub Actions` `Tests`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AWS CI/CD Pipeline](https://github.com/DavidDevd/devops.ci.api)
+**DevOps / Cloud Delivery**
+
+Automated test, Docker build, ECR publishing and AWS App Runner deployment workflow designed around repeatable software delivery.
+
+`FastAPI` `Docker` `GitHub Actions` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### [FastAPI on Kubernetes](https://github.com/DavidDevd/desafio-kubernetes)
+**Cloud Native / Reliability Foundations**
+
+Containerized FastAPI and PostgreSQL deployment using Services, persistent storage, configuration, probes and autoscaling.
+
+`Kubernetes` `FastAPI` `PostgreSQL` `HPA`
+
+</td>
+</tr>
+</table>
+
+> **Infrastructure evidence:** [Terraform Multi-Environment Infrastructure](https://github.com/DavidDevd/Configuracao-de-Infraestrutura-Multi-Ambiente) — versioned AWS infrastructure for dev, staging and production with VPC, EC2, ALB, Auto Scaling, S3 and DynamoDB.
 
 ---
 
-## Engineering Focus
+## ◇ Engineering Focus
 
-### AI Engineering & Intelligent Automation
-LLM integrations, AI agents, workflow automation, RAG foundations, API orchestration and n8n-based automation.
+<table>
+<tr>
+<td width="25%" valign="top">
 
-### Backend & Software Engineering
-Python, FastAPI, REST APIs, PostgreSQL, automated tests, modular architecture and containerized services.
+### 🧠 AI Engineering
+LLM integrations  
+AI agents  
+RAG foundations  
+API orchestration
 
-### Cloud, DevOps & Platform
-AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Infrastructure as Code, health checks and production-oriented deployment workflows.
+</td>
+<td width="25%" valign="top">
 
-### Reliability Foundations
-Troubleshooting, logs, metrics, health checks, Kubernetes probes, infrastructure diagnostics and operational readiness.
+### ⚡ Automation
+n8n workflows  
+API integrations  
+Process orchestration  
+Intelligent workflows
 
----
+</td>
+<td width="25%" valign="top">
 
-## How I Build
+### `</>` Backend
+Python / FastAPI  
+REST APIs  
+PostgreSQL  
+Automated tests
 
-```text
-Idea / Requirement
-       ↓
-AI & Automation
-       ↓
-API / Backend
-       ↓
-Tests & Quality
-       ↓
-Container
-       ↓
+</td>
+<td width="25%" valign="top">
+
+### ☁ Cloud & Platform
+AWS / Docker  
+Kubernetes  
+Terraform / IaC  
 CI/CD
-       ↓
-Cloud / Kubernetes
-       ↓
-Health Checks & Observability
-```
 
-I focus on connecting application development with the infrastructure required to test, deliver and operate software reliably.
+</td>
+</tr>
+</table>
 
 ---
 
-## Core Stack
+## ⎇ How I Build
 
-**AI & Automation**  
-LLMs • AI Agents • n8n • RAG • API Integrations
+<div align="center">
 
-**Backend**  
-Python • FastAPI • PostgreSQL • REST APIs • Node.js
+**01 · IDEA**　→　**02 · DESIGN**　→　**03 · BUILD**　→　**04 · CONTAINERIZE**　→　**05 · DEPLOY**　→　**06 · OBSERVE**
 
-**Cloud & DevOps**  
-AWS • Docker • Docker Compose • Kubernetes • Terraform • GitHub Actions • CI/CD • Linux
+`requirements` → `architecture` → `code + tests` → `Docker` → `CI/CD + cloud` → `health + metrics`
 
-**Reliability & Operations**  
-Prometheus • Grafana • Logs • Metrics • Health Checks • Troubleshooting
+</div>
+
+I connect application development with the infrastructure required to **test, deliver and operate software reliably** — from intelligent automation and APIs to containers, cloud deployment and operational readiness.
 
 ---
 
-## Currently Building
+## ⛁ Core Stack
 
-I am strengthening a portfolio centered on **AI-enabled software, cloud-native delivery and reliability engineering**, with emphasis on projects that provide inspectable engineering evidence rather than isolated technology demos.
+<div align="center">
 
-Current priorities include improving project documentation, architecture decisions, automated delivery, observability and production-readiness.
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-7C3AED?style=for-the-badge)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud, Platform & Reliability
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
-## Background
+## ↗ Currently Building
 
-I am an Analysis and Systems Development student and currently work in **Technical Support N1**, where I develop practical experience with networking, connectivity diagnostics, infrastructure troubleshooting and user support.
+**Engineering portfolio → AI-enabled software + cloud-native delivery + reliability foundations**
 
-I use that operational foundation alongside software, AI automation and cloud projects to build toward **Software/AI Engineering, DevOps/Cloud and SRE-oriented roles**.
+Current work is centered on strengthening project evidence through architecture documentation, automated delivery, observability and production-readiness rather than isolated technology demos.
 
 ---
 
-## GitHub Activity
+## ◉ GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidDevd&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDevd&layout=compact&theme=github_dark&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidDevd&theme=github-dark&hide_border=true&area=true" width="96%" />
+
 </div>
+
+---
+
+## Background
+
+Analysis and Systems Development student currently working in **Technical Support N1**, developing practical experience with networking, connectivity diagnostics, infrastructure troubleshooting and user support.
+
+I combine that operational foundation with software, AI automation and cloud projects while building toward **Software/AI Engineering, DevOps/Cloud and SRE-oriented roles**.
 
 ---
 
 <div align="center">
 
-### Let's connect
+## Let's Connect
 
-[Portfolio](https://daviddevd.github.io/pauloramos.github.io) • [LinkedIn](https://linkedin.com/in/paulo-ramos-b605a9209) • [GitHub](https://github.com/DavidDevd)
+[**Portfolio**](https://daviddevd.github.io/pauloramos.github.io)　•　[**LinkedIn**](https://linkedin.com/in/paulo-ramos-b605a9209)　•　[**Email**](mailto:davifd642@gmail.com)
 
-*From intelligence to infrastructure — building, automating and operating modern systems.*
+### From intelligence to infrastructure.
+*I build, automate and operate modern systems.*
 
 </div>
