@@ -67,7 +67,7 @@ I prefer projects where technical claims can be inspected: repository structure,
 
 ## Background
 
-I started in **Technical Support N1**, building practical experience in troubleshooting, networking, connectivity and infrastructure support. I am now directing that operational foundation toward Software Engineering through backend, API, automation and cloud projects.
+I currently work in **Technical Support N2**, building practical experience in troubleshooting, networking, connectivity, infrastructure support and user-facing problem solving. I am directing that operational foundation toward Software Engineering through backend, API, automation and cloud projects.
 
 I am looking for an **early-career / Junior Software Engineer opportunity**, especially where backend systems, integrations, automation or platform fundamentals are relevant.
 
